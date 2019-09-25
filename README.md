@@ -11,7 +11,7 @@ was especially conceived for the occidental motifs of the visual arts
 definitions, e.g., of natural phenomena or social and economic life.
 
 A definition is represented by an alphanumeric character combination,
-the so-called *notation*, and an explanatory textual correlation. It is
+the so-called *notation*, and an explanatory textual correlate. It is
 assigned a set of keywords or search terms. A notation consists of at
 least one digit that indicates the first hierarchical level, *division*;
 it can be followed by another digit on the second level and one or two
