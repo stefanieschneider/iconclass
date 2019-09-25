@@ -1,0 +1,28 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+	collapse = TRUE,
+	comment = "#>",
+	fig.path = "man/figures/README-",
+	out.width = "100%"
+)
+
+options(width = "100")
+```
+
+# iconclass
+
+## Overview
+
+*Iconclass* is a structure-imaging decimal classification system that was especially conceived for the occidental motifs of the visual arts (van de Waal, 1973--1985). However, the taxonomy also contains universal definitions, e.g., of natural phenomena or social and economic life.
+
+A definition is represented by an alphanumeric character combination, the so-called *notation*, and an explanatory textual correlation. It is assigned a set of keywords or search terms. A notation consists of at least one digit that indicates the first hierarchical level, *division*; it can be followed by another digit on the second level and one or two (identical) capital letters on the third level. The following auxiliary constructions can be attached to this structure, which is called the *basic notation*: a number chain (*queue*); a name, e.g. of a species, in brackets (*bracketed text*); a number chain in brackets, preceded by a plus sign (*key*).
+
+## Contributing
+
+Please report issues, feature requests, and questions to the [GitHub issue tracker](https://github.com/stefanieschneider/iconclass/issues). We have a [Contributor Code of Conduct](https://github.com/stefanieschneider/iconclass/blob/master/CODE_OF_CONDUCT.md). By participating in iconclass you agree to abide by its terms.
